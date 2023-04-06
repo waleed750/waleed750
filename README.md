@@ -5,8 +5,9 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Egypt
-- 📫 How to reach me: ...
+# 📫 How to reach me: ...
 <p align="left"> <a href="https://www.facebook.com/waleed.frag.376/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/waleed-ashraf-0483571b4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCbKBo01Bn5ywgh6FZUp8muQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
 ### Skills
 
 
@@ -22,7 +23,6 @@ Software Engineer
 </p>
 
 
-### Socials
 
 
 <!--
