@@ -25,7 +25,8 @@ Software Engineer
 </p>
 
 
-<a href="http://www.github.com/waleed750"><img src="https://github-readme-stats.vercel.app/api?username=waleed750&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=14b8a6&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="waleed750's GitHub stats" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/waleed750" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed750&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
 
 
