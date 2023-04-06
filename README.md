@@ -3,10 +3,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://user-images.githubusercontent.com/102048956/230383020-92a2a79e-eba5-42ae-a7af-e6028f4a7ab5.png)
 
 **About me**<br>
-I am student in [Information Technology](https://www.facebook.com/it.minia) Department at Faculty of Science Minia University , have been with coding almost four years , have been before with python web scraping , .Net Development , Android Native with Tensorflow lite and at the End I tried flutter Development .
+I am junior Flutter Developer and  student in [Information Technology](https://www.facebook.com/it.minia) Department at Faculty of Science Minia University(Last Year). I have been coding and problem solving for over Four years 
+<!-- -->
+========================
 
-
-* 🚀  I'm currently working at [Instructor Flutter instructor](http://www.facebook.com/profile.php?id=100090574053947)
+* 🚀  I'm currently Flutter instructor at [Live in Mars E](http://www.facebook.com/profile.php?id=100090574053947)
 * 👨‍💻  Information Technology Student
 * 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
 * 👯 And Many More...
