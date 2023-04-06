@@ -12,9 +12,7 @@ Software Engineer
 
 ## ⚡ GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=waleed750&count_private=true&show_icons=true&include_all_commits=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed750&hide=TeX&layout=compact" />
+<img height="220px" align="left" src="https://github-readme-stats.vercel.app/api?username=waleed750&hide_border=true&hide=TeX&layout=compact&count_private=true&show_icons=true&include_all_commits=true" /><img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed750&hide_border=true&hide=TeX&layout=compact" />
 
 <br>
 <p align="left">
