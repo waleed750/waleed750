@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waleed Ashraf
-=====================================================================================================================================
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://user-images.githubusercontent.com/102048956/230363974-4327f0f8-5f79-48ab-95d4-110c4dd2f086.gif)
 
-Software Engineer
------------------
+
 
 * 🌍  I'm based in Egypt
 * 📫 How to reach me: ...
