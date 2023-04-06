@@ -6,7 +6,7 @@
 I am junior Flutter Developer and  student in [Information Technology](https://www.facebook.com/it.minia) Department at Faculty of Science Minia University(Last Year). I have been coding and problem solving for over Four years 
 <!-- -->
 ========================
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="230" align="right">
 * 🚀  I'm currently Flutter instructor at [Live in Mars E](http://www.facebook.com/profile.php?id=100090574053947)
 * 👨‍💻  Information Technology Student
 * 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
