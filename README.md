@@ -3,9 +3,25 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://user-images.githubusercontent.com/102048956/230383020-92a2a79e-eba5-42ae-a7af-e6028f4a7ab5.png)
 
 **About me**<br>
-I am junior Flutter Developer and  student in [Information Technology](https://www.facebook.com/it.minia) Department at Faculty of Science Minia University(Last Year). I have been coding and problem solving for over Four years 
+I am a **Mid-level Flutter Developer** and **Mobile App Specialist** at [**Nearay GmbH**](https://nearay.net/), where I craft high-performance, cross-platform mobile applications. As the **Lead of Mobile Development** at **Solution Hunter**, I spearhead the creation of innovative and scalable mobile solutions. With **expertise in Firebase integration**, I design dynamic app ecosystems powered by real-time databases, cloud functions, and analytics to deliver seamless user experiences.
+
+<a href="https://github.com/waleed750" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://medium.com/@dedoashraf700" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.reddit.com/user/Waleed-Ashraf/" target="_blank">
+    <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" style="margin-bottom: 5px;" />
+</a>
 <!-- -->
-========================
+<!-- ======================== -->
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="230" align="right">
 * 🚀  I'm currently Flutter instructor at [Live in Mars E](http://www.facebook.com/profile.php?id=100090574053947)<br>
 * 👨‍💻  Information Technology Student<br>
