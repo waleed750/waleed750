@@ -38,9 +38,18 @@ I am a **Mid-level Flutter Developer** and **Mobile App Specialist** at [**Neara
 
 ## ⚡ GitHub Stats
 
-<img height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=waleed750&PART_1=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&hide_border=true&hide=TeX&layout=compact&count_private=true&show_icons=true&include_all_commits=true" /><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed750&PART_1=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&hide_border=true&hide=TeX&layout=compact" />
 
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=waleed750&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed750&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
 
 
