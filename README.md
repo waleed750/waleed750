@@ -52,7 +52,7 @@ I am a **Mid-level Flutter Developer** and **Mobile App Specialist** at [**Neara
 <br/>  
 
 
-
+<img src="https://raw.githubusercontent.com/waleed750/waleed750/output/snake.svg" alt="Snake animation" />
 
 <!--
 
