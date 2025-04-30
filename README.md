@@ -8,9 +8,9 @@ I am a **Mid-level Flutter Developer** and **Mobile App Specialist** at [**Neara
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="230" align="right">
 <!-- * 🚀  I'm currently Flutter instructor at [Live in Mars E](http://www.facebook.com/profile.php?id=100090574053947)<br> -->
-* 👨‍💻  Information Technology Student<br>
+<!-- * 👨‍💻  Information Technology Student<br>
 * 🌱 I love to speak at public events and to help student Communitiess<br>
-* 👯 And Many More...<br>
+* 👯 And Many More...<br> -->
 
 # 🌐 Social
 <a href="https://github.com/waleed750" target="_blank">
