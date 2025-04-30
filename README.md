@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://user-images.githubusercontent.com/102048956/230383020-92a2a79e-eba5-42ae-a7af-e6028f4a7ab5.png)
 
 **About me**<br>
-I am a **Mid-level Flutter Developer** and **Mobile App Specialist** at [**Nearay GmbH**](https://nearay.net/), where I craft high-performance, cross-platform mobile applications. As the **Lead of Mobile Development** at **Solution Hunter**, I spearhead the creation of innovative and scalable mobile solutions. With **expertise in Firebase integration**, I design dynamic app ecosystems powered by real-time databases, cloud functions, and analytics to deliver seamless user experiences.
+I am a **Mid-level Flutter Developer** and **Mobile App Specialist** at [**Nearay GmbH**]([https://nearay.net/](https://www.nearay.com/en?shortlink=linkedin&pid=Social_linkedin&af_xp=social&source_caller=ui), where I craft high-performance, cross-platform mobile applications. As the **Lead of Mobile Development** at **Solution Hunter**, I spearhead the creation of innovative and scalable mobile solutions. With **expertise in Firebase integration**, I design dynamic app ecosystems powered by real-time databases, cloud functions, and analytics to deliver seamless user experiences.
 
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="230" align="right">
