@@ -88,7 +88,7 @@
 | **Online Engineer** | Auto spare-parts marketplace | <a href="https://play.google.com/store/apps/details?id=com.devs.online_engineer" target="_blank"><img src="https://img.shields.io/badge/-Google%20Play-34A853?style=flat&logo=google-play&logoColor=white" /></a> |
 
 
-<!-- ## ⚡ GitHub Stats
+## ⚡ GitHub Stats
 
 <table>
   <tr>
@@ -101,7 +101,7 @@
   </tr>
 </table>
 
-<br/> -->
+<br/> 
 
 
 
