@@ -1,4 +1,6 @@
-<h1 align="center">Waleed Ashraf</h1>
+</h1><img width="1536" height="1024" alt="6b42fe47-4c0c-4b5d-a01e-2f3f72d2c6c7" src="https://github.com/user-attachments/assets/ba61482b-fe28-4d59-b73b-026284cef98b" />
+<h1 align="center">Waleed Ashraf
+
 <h3 align="center">Senior Flutter Developer • Mobile Engineer • Mobile App Pentester </h3>
 
 <p align="center">
