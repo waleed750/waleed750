@@ -12,7 +12,7 @@
   <a href="mailto:eng.waleed.ashraf.farag@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
-<a href="https://medium.com/@dedoashraf700" target="_blank">
+<a href="https://medium.com/@waleed__ashraf" target="_blank">
   <img src="https://img.shields.io/badge/-Medium-000?style=flat&logo=medium&logoColor=white" alt="Medium" />
 </a>
 <a href="https://www.reddit.com/user/Waleed-Ashraf/" target="_blank">
